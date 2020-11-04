@@ -1,0 +1,1 @@
+# Unity_WebGL_ScreenCapture_To_ImageEelement
